@@ -24,3 +24,4 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - Aufbau Verb-Noun
 - Module
 - Variablen
+- Operationen

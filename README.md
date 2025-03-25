@@ -25,3 +25,9 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Module
 - Variablen
 - Operationen
+- Formatierung  der Ausgabe mit
+    ```powershell
+    Format-Tabe
+    Format-List
+    Format-Wide
+    ```

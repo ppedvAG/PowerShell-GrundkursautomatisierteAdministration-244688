@@ -25,9 +25,23 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Module
 - Variablen
 - Operationen
+- Pipeline 1
 - Formatierung  der Ausgabe mit
     ```powershell
     Format-Tabe
     Format-List
     Format-Wide
     ```
+- Einfache Ausgabe
+    ```powershell
+    Out-Host
+    Out-File
+    Out-Printer
+    ```
+- Sortieren 
+- Messen
+- Selektieren
+- Filtern
+- Konvertieren / Importieren / Exportieren
+- Pipeline 2
+- Aufzählen

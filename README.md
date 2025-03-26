@@ -45,3 +45,5 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Konvertieren / Importieren / Exportieren
 - Pipeline 2
 - Aufzählen
+- Schleifen
+- Verzweigung
